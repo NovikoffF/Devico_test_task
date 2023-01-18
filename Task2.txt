@@ -1,0 +1,3 @@
+CSS locator: .home-top-section div.button
+XPath locator: //*[contains(@class,"home-top-section__title")]/..//div[@class="button"]
+		//*[contains(@class,"home-top-section__title")]/..//div[text()="Get in Touch"]
